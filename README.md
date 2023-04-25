@@ -3,7 +3,7 @@
 
 I'm a highly experienced embedded engineer working from Linz (:austria:) with clients across the :earth_africa:.
 
-* :robot: I help companies with building firmware and software for robotic systems at [LXRobotics](https://www.lxrobotics.com).
+* :robot: I provide expertise, firmware and software development for R&D teams building robotic systems at [LXRobotics](https://www.lxrobotics.com).
 * :star_struck: I help making complex technology available for everyone at [Arduino](https://github.com/arduino).
 * :blush: I'm part of [107-systems](https://107-systems.org/), a :earth_africa:-wide group of talented volunteers developing reusable building blocks for robotic applications.
 * :muscle: I’m collaborating on [OpenCyphal](https://opencyphal.org/), an open technology for real-time intravehicular distributed computing and communication.
