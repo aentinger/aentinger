@@ -1,4 +1,4 @@
-<a href="https://www.lxrobotics.com/"><img align="right" src="https://www.lxrobotics.com/wp-content/uploads/2022/09/LXRobotics_Logo_white_on_grey-L-250.png" width="15%"></a>
+<a href="https://lxrobotics.com/"><img align="right" src="https://raw.githubusercontent.com/lxrobotics/.github/main/logo/lxrobotics.png" width="15%"></a>
 Hi there 👋
 ===========
 
