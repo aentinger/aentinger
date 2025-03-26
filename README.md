@@ -2,7 +2,7 @@
 Hi there 👋
 ===========
 
-I'm a highly experienced embedded engineer working from Linz (:austria:) with clients across the :earth_africa:.
+I'm a highly experienced embedded engineer working from Linz (🇦🇹) with clients across the 🌍.
 
 * :robot: I provide expertise, firmware and software development for R&D teams building robotic systems at [LXRobotics](https://www.lxrobotics.com).
 * :star_struck: I help making complex technology available for everyone at [Arduino](https://github.com/arduino) (3/2019 - 3/2026).
